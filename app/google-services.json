@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998353966020",
+    "firebase_url": "https://indoorrssi.firebaseio.com",
+    "project_id": "indoorrssi",
+    "storage_bucket": "indoorrssi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998353966020:android:e4f9d6b054bb78305fca91",
+        "android_client_info": {
+          "package_name": "com.example.indoorrssimapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998353966020-c1i9kp1jp89m177lo8nvu6rk1tl0anqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrFDecjDJ12IsF6mJW8H2E202p4bIgZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998353966020-c1i9kp1jp89m177lo8nvu6rk1tl0anqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
